@@ -1,0 +1,36 @@
+
+
+ul{
+	list-style: none;
+	position: fixed;
+	right: 0;
+}
+li{display: inline;
+	background-color: orange;
+	float: left;
+	color: black;
+	margin: 5px;
+	padding: 5px;
+}
+
+p{ position: relative;
+	margin-top: 50px;
+	text-align: center;
+}
+#parrafo{
+	bottom: 50px;
+	margin-left: 600px;
+}
+
+#parrafo2{
+	bottom: 100px;
+}
+h3{
+	margin-left: 100px;
+}
+img{
+	margin-top: 50px;
+}
+#lista{
+	color: black;
+}
